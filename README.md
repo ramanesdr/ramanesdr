@@ -22,4 +22,4 @@ Merci à toutes les personnes qui ont contribué à mes projets et soutenu mon t
 
 ## 💰 You can help me by Donating
 
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://bmc.link/ramanesdr) [!
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://bmc.link/ramanesdr) 
