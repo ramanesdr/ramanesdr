@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 Découvrez mes statistiques GitHub qui reflètent mon activité et mes contributions dans le monde du développement.
 
-![](https://github-readme-stats.vercel.app/api?username=ramanesdr&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=ramanesdr&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&prs=true&issues=true&contributed_to=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ramanesdr&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ramanesdr&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ---
