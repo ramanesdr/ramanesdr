@@ -17,10 +17,6 @@ Découvrez mes statistiques GitHub qui reflètent mon activité et mes contribut
 ---
 
 
-[![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=ramanesdr)](https://github.com/anuraghazra/github-readme-stats)
-![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=ramanesdr&show_icons=true)
-![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=ramanesdr&show_icons=true&theme=radical)
-
 ## 🚀 Skills & Tools:
 
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
