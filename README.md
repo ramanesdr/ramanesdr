@@ -37,7 +37,8 @@ Découvrez mes statistiques GitHub qui reflètent mon activité et mes contribut
 J'ai obtenu des certifications et des badges qui attestent de mes compétences et réalisations dans le domaine du développement. Voici quelques-uns de mes badges Credly que j'ai acquis au fil de mon parcours :
 
 [![Meta Front-End Developer Certificate
-](https://www.credly.com/badges/e7f27b9d-d06b-4a78-9f79-3853577f0e07/public_url)](https://www.credly.com/badges/e7f27b9d-d06b-4a78-9f79-3853577f0e07/public_url)
+](![image](https://github.com/ramanesdr/ramanesdr/assets/98531797/748e50a3-fee2-41a2-8946-0b21bc3e0d83)
+)](https://www.credly.com/badges/e7f27b9d-d06b-4a78-9f79-3853577f0e07/public_url)
 
 Cliquez sur chaque badge pour en savoir plus sur la compétence ou la réalisation qu'il représente.
 
